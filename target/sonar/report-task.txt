@@ -1,0 +1,6 @@
+projectKey=agri.com:agriculture
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=agri.com%3Aagriculture
+ceTaskId=AXHYxbpRdqwBG9466vX0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXHYxbpRdqwBG9466vX0
